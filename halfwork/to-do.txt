@@ -1,0 +1,11 @@
+1) IOC Journal && Assingment && Project  WE
+2) HAP Journal THU
+3) EXAM
+
+Next week 
+Parrot && Amzux rootfs with debian stretch 
+
+# Rootfs
+
+Andy Parrot App backend with bootup scriPt
+new rootfs 
