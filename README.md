@@ -1,3 +1,4 @@
+
 # Parrotsec-Android
 Unofficial ParrotSec Build For Android 
 THIS BUILD NOT CREATED BY OFFICIAL PARROTSEC DEVS ,SO INSTALL IN BASED OF TRUST
@@ -39,6 +40,13 @@ IF you want to set manual $PATH , i will upload spurce code ,You can set where y
 2) Root Access
 3) Busybox 
 4) 512MB RAM (CLI) && 4GB minimum (GUI)
+
+# Procedure 
+1) Build Rootfs /chroot 
+2) RUn  
+        `mkdir -p /data/local/ParrotSec/`
+        
+3) Copy Your Rootfs into that part as `parrot-armhf` 
 
 
 
