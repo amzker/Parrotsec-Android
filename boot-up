@@ -1,6 +1,6 @@
 #!/bin/sh
 #DONT BE IDIOT PLEAS | ROOT POWER NEED 
-chmod 0777 boot-up.null
+chmod 0777 boot-up
 if [ -x /system/xbin/busybox ]; then
    busybox=/system/xbin/busybox
 elif [ -x /data/local/bin/busybox ]; then
