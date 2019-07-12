@@ -1,5 +1,9 @@
 # UPDATE 
 
+This Repo is old and not maintained, 
+You guys just install script & read
+Methods from builder
+
 
      Project is moved at gitlab.com/ParrotSec-Android 
 
@@ -160,7 +164,8 @@ Mainly
     C. Customm profiles 
     D. Test builds of P-term
 You get. 
-5. I Am Responsible if you follow my steps & device get breack
+5. I Am Responsible if you follow my steps & device get breack 
+(Follow same as video)
 6. Console AI, Updates starts after 29-6 
 in which investigator,Mass Scann,Amzkill gets improved 
 
