@@ -5,7 +5,7 @@ You guys just install script & read
 Methods from builder
 
 
-     Project is moved at gitlab.com/ParrotSec-Android 
+     Project is moved at nest.parrotsec.org 
 
 Unstable Environment 500 
 
