@@ -5,7 +5,7 @@ You guys just install script & read
 Methods from builder
 
 
-     Project is moved at nest.parrotsec.org 
+     Project is moved at nest.parrotsec.org/Amzker-Security
 
 Unstable Environment 500 
 
