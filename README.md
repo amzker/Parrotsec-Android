@@ -172,3 +172,28 @@ in which investigator,Mass Scann,Amzkill gets improved
   ```
 -Amzker t.me@amzker 
 
+```
+
+.
+|-- LATEST-VERSION
+|-- LICENSE
+|-- Non-root
+|   |-- README.md
+|   `-- contributions.md
+|-- Packages
+|   |-- Amzkill.Amzx
+|   |-- Amzy.Amzx
+|   |-- console.Amzx
+|   `-- null
+|-- README.md
+|-- Screenshot_Quickstep_20190226-071844.png
+|-- _config.yml
+|-- boot-up
+`-- halfwork
+    |-- My\ mistakes.null
+    |-- _20190227_115537.JPG
+    |-- null
+    `-- to-do.txt
+
+3 directories, 16 files
+```
