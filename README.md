@@ -4,8 +4,9 @@ This Repo is old and not maintained,
 You guys just install script & read
 Methods from builder
 
+# PROJECT IS CLOSED
 
-     Project is moved at nest.parrotsec.org/Amzker-Security
+  
 
 Unstable Environment 500 
 
