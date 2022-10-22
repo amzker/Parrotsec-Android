@@ -4,7 +4,7 @@
 
 https://drive.google.com/file/d/14fCyLdHKPqmTrdegNSvYOfUu1_2d9MYk/view?usp=drivesdk
 
-have very deep reason fkr jsing drive 
+have very deep reason for using drive 
 
 **Testing status**
 
