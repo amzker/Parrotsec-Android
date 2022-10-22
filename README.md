@@ -139,20 +139,12 @@ Run following commmand for installer Amzy package manager
 paclages/CommonnPackages/Amzy`
 2) sudo dpkg -i Amzy.deb 
 
-# For updates 
-check list first 
-At 
-
-`amzux.site11.com/download/repo`
 
 Then run 
 2) Amzy 
 3) And put your package name 
 
-# VIDEO
-https://youtu.be/swsZ5CbTUlU
 
-![VIDEO](https://youtu.be/swsZ5CbTUlU)
 
 # Acknowledgement 
    ```
